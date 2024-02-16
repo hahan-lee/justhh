@@ -20,6 +20,14 @@ body {
   color: #333333;
   background: #ffffff;
 }
+
+header,
+main,
+footer,
+section,
+nav {
+  display: block;
+}
 ul,
 li {
   list-style: none;
